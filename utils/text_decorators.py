@@ -1,6 +1,8 @@
 def text_separator():
-    print()
-    print('=' * 60)
+    return '=' * 60
+
+def line_blank():
+    return ''
 
 
 def print_predict(y_train, y_pred):

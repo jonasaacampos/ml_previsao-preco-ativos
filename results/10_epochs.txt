@@ -1,0 +1,13 @@
+Ajuste de dados com 10 passadas.
+Time Analysist = > Start:19:55:17 | Ends:19:55:21 || Elapsed:3.99
+============================================================
+Epoch: 1/10        | Error = 0.069680
+Epoch: 2/10        | Error = 0.012210
+Epoch: 3/10        | Error = 0.007622
+Epoch: 4/10        | Error = 0.005234
+Epoch: 5/10        | Error = 0.004015
+Epoch: 6/10        | Error = 0.003180
+Epoch: 7/10        | Error = 0.002665
+Epoch: 8/10        | Error = 0.002227
+Epoch: 9/10        | Error = 0.001916
+Epoch: 10/10        | Error = 0.001645

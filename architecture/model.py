@@ -9,8 +9,6 @@ from sklearn.metrics import mean_squared_error
 
 
 # Modelo
-
-
 class Network:
     
     # Método construtor
